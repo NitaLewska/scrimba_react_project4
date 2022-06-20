@@ -1,0 +1,23 @@
+/* Box Model Fix */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    margin: 0px;
+}
+
+
+html{
+    background-color:bisque
+}
+
+body{
+    max-width: 550px;
+    margin: 0 auto;
+    overflow-x: hidden;
+
+}
