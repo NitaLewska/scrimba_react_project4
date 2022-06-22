@@ -1,5 +1,6 @@
 main {
     padding: 36px;
     background: #FFFFFF;
-    height: 500px;
+    height: fit-content;
+    border-radius: 0 0 4px 4px;
 }
